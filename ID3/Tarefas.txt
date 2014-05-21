@@ -1,0 +1,1 @@
+calcular o ganho de cada instancia usar a classe instancia para armazenar as ocorrencias

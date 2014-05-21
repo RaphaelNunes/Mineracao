@@ -1,0 +1,15 @@
+Tempo Temperatura Umidade Vento Joga-Tenis
+Sol Quente Alta Fraco Nao
+Sol Quente Alta Forte Nao
+Nublado Quente Alta Fraco Sim
+Chuva Moderado Alta Fraco Sim
+Chuva Frio Normal Fraco Sim
+Chuva Frio Normal Forte Nao
+Nublado Frio Normal Forte Sim
+Sol Moderado Alta Fraco Nao
+Sol Frio Normal Fraco Sim
+Chuva Moderado Normal Fraco Sim
+Sol Moderado Normal Forte Sim
+Nublado Moderado Alta Forte Sim
+Nublado Quente Normal Fraco Sim
+Chuva Moderado Alta Forte Nao

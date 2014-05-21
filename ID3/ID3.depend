@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1399559993 source:c:\users\raphael\documents\codigos\id3\id3.c
+	<stdio.h>
+	<stdlib.h>
+	"ID3.h"
+
+1399562223 c:\users\raphael\documents\codigos\id3\id3.h
+
+1399560464 source:c:\users\raphael\documents\codigos\id3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ID3.h"
+
+1400127796 source:c:\users\raphael\documents\codigo\id3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ID3.h"
+
+1400214208 c:\users\raphael\documents\codigo\id3\id3.h
+
+1400212693 source:c:\users\raphael\documents\codigo\id3\id3.c
+	<stdio.h>
+	<stdlib.h>
+	"ID3.h"
+
